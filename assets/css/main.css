@@ -2842,6 +2842,37 @@
 			}
 
 	}
+	ul.alt li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+ul.skills-list {
+	margin-left: -40px;
+	/*width: 700px;*/
+	margin-bottom: 50px;
+}
+
+ul.skills-list li {
+	list-style-type: none;
+	display:inline-block;
+	padding: 25px 20px 0px 20px;
+	width: 120px;
+	height: 120px;
+}
+
+ul.skills-list img {
+	width: 100%;
+	height: auto;
+}
+
+ul.skills-list h3 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Lato';
+	font-weight: 300;
+}
 
 /* Large */
 
@@ -2888,6 +2919,38 @@
 
 	}
 
+	ul.alt li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+ul.skills-list {
+	margin-left: -40px;
+	/*width: 700px;*/
+	margin-bottom: 50px;
+}
+
+ul.skills-list li {
+	list-style-type: none;
+	display:inline-block;
+	padding: 25px 20px 0px 20px;
+	width: 120px;
+	height: 120px;
+}
+
+ul.skills-list img {
+	width: 100%;
+	height: auto;
+}
+
+ul.skills-list h3 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+
 /* Medium */
 
 	@media screen and (max-width: 980px) {
@@ -2903,6 +2966,40 @@
 			ul.icons li .icon {
 				font-size: 1.25em;
 			}
+
+			ul.alt li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+
+
+ul.skills-list {
+	margin-left: -40px;
+	/*width: 700px;*/
+	margin-bottom: 50px;
+}
+
+ul.skills-list li {
+	list-style-type: none;
+	display:inline-block;
+	padding: 25px 20px 0px 20px;
+	width: 120px;
+	height: 120px;
+}
+
+ul.skills-list img {
+	width: 100%;
+	height: auto;
+}
+
+ul.skills-list h3 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Lato';
+	font-weight: 300;
+}
 
 		/* Header */
 
@@ -3007,6 +3104,38 @@
 					line-height: 1.75em;
 				}
 
+				ul.alt li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+ul.skills-list {
+	margin-left: -40px;
+	/*width: 700px;*/
+	margin-bottom: 50px;
+}
+
+ul.skills-list li {
+	list-style-type: none;
+	display:inline-block;
+	padding: 25px 20px 0px 20px;
+	width: 120px;
+	height: 120px;
+}
+
+ul.skills-list img {
+	width: 100%;
+	height: auto;
+}
+
+ul.skills-list h3 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+
 		/* Header */
 
 			#header {
@@ -3084,6 +3213,38 @@
 					ul.actions.small li:first-child {
 						padding-top: 0;
 					}
+
+					ul.alt li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+ul.skills-list {
+	margin-left: -40px;
+	/*width: 700px;*/
+	margin-bottom: 50px;
+}
+
+ul.skills-list li {
+	list-style-type: none;
+	display:inline-block;
+	padding: 25px 20px 0px 20px;
+	width: 120px;
+	height: 120px;
+}
+
+ul.skills-list img {
+	width: 100%;
+	height: auto;
+}
+
+ul.skills-list h3 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Lato';
+	font-weight: 300;
+}
 
 		/* Header */
 
